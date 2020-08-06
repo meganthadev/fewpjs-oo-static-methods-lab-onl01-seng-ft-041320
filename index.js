@@ -1,6 +1,6 @@
 class Formatter {
   static capitalize(string) {
-    return strong.toUpperCase();
+    return string.toUpperCase();
   }
   
   static sanitize () {
