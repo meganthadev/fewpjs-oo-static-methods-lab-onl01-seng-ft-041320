@@ -1,13 +1,13 @@
 class Formatter {
-  static capitalize() {
-    
+  static capitalize(string) {
+    return strong.toUpperCase();
   }
   
   static sanitize () {
     
   }
   
-  static capitalize() {
+  static titleize () {
     
   }
 }
